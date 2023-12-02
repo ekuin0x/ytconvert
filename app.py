@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-import yt_dlp
+from yt_dlp import YoutubeDL
 from contextlib import redirect_stdout
 from pathlib import Path
 import io
