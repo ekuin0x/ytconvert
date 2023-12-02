@@ -1,0 +1,4 @@
+flask 
+gunicorn
+yt_dlp
+pydub
